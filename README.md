@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Angie
-- 👀 I’m interested in coding
+- 💻 I’m interested in coding
 - 🌱 I’m currently learning java and c++
-- 📫 How to reach me ...
 - 😄 Pronouns: An gie
-- ⚡ Fun fact: I like to play soccer, draw, im creaitve with photography and marketing.
+- ⚡ Fun fact: I like to play soccer ⚽️, draw ✍️, im creaitve with photography and marketing.
 
 <!---
 Alaqbib77/Alaqbib77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
