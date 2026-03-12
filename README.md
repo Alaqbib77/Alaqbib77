@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bashaer
 - 💻 I’m interested in coding
-- 🌱 I’m currently learning java and c++
 - ⚡ Fun fact: I like to play soccer ⚽️, draw ✍️, im creaitve with photography and media marketing.
 
 <!---
