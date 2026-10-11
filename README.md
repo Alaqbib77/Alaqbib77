@@ -4,8 +4,6 @@
 
 ### 🐎✨ Welcome to my little corner of GitHub! 🤖☕
 
-<br><br>
-
 <img src="asssets/robot_animated.gif" alt="Cute robot typing on a computer" width="220" />
 
 <br><br>
