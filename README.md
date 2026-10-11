@@ -5,11 +5,13 @@
 
 ### 🐎 Welcome to my little corner of GitHub! 🤖
 
-<img src="assets/banner.png" alt="Pink horse and robot banner" width="100%" />
+
+<img src="banner.png" alt="Horse and robot banner" width="100%" />
 
 <br />
 
-<img src="assets/robot.png" alt="Cute pink robot" width="170" />
+<img src="robot.png" alt="Cute pink robot" width="170" />
+  
 
 <br />
 
