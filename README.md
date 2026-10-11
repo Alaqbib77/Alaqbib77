@@ -99,6 +99,6 @@ I’m always learning and adding new things here.
 
 **Keep learning. Keep creating. Keep growing. 🌸**
 
-<img src="https://komarev.com/ghpvc/?username=Alaqbi77&color=ff69b4&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Alaqbib77&color=ff69b4&style=flat-square" alt="Profile views" />
 
 </div>
