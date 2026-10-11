@@ -1,73 +1,23 @@
 
 <div align="center">
 
-# 💗 Hey there, I'm Bashaer!
+# 💗 Hey, I'm Bashaer!
 
-### 💻 Computer Engineering Student 
+### 🐎 Welcome to my little corner of GitHub! 🤖
 
-*Turning coffee into code, one project at a time ☕*
+<img src="assets/banner.png" alt="Pink horse and robot banner" width="100%" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DB6B9D&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Future+Computer+Engineer;Exploring+AI+%26+Cybersecurity;Learning+and+Building+Cool+Things!)
+<br />
 
-</div>
+<img src="assets/robot.png" alt="Cute pink robot" width="170" />
 
----
+<br />
 
-### 🌸 A Little About Me
+**🎓 Computer Engineering @ Syracuse University 🍊**
 
-- 🎓 Computer Engineering student
-- 🎮 I enjoy video games and trying new things
-- 🤖 I love building creative projects and seeing my ideas come to life
-- 💗 I like making everything a little more aesthetic
-- 🤖 Love exploring robotics and embedded systems
-- 💻 Learning more about software and hardware design
-- 🛠️ Enjoy building projects and solving real-world problems
-- ✨ Always curious and learning something new!
-  
-**💌 Fun fact:** My code doesn't always work on the first try, but my coffee always does! ☕
+*Learning, creating, and bringing ideas to life!* ✨
 
-### 🛠️ My Tech Toolbox
-
-![Python](https://img.shields.io/badge/Python-FFD1E8?style=for-the-badge&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-E9D5FF?style=for-the-badge&logo=cplusplus&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCE7F3?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-DDD6FE?style=for-the-badge&logo=visualstudiocode&logoColor=black)
-
-### 🚀 Projects I'm Exploring
-
-| Project | Description |
-|---------|-------------|
-| 🤖 Robotic Arm | Object detection, sorting and automated movement |
-| 🔐 Phishing Detection | Detecting suspicious URLs and emails |
-| 🚁 Object-Following Drone | Exploring autonomous tracking and navigation |
-| 🧠 AI & Cybersecurity | Learning about security tools and AI systems |
-
-### 📊 My GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaqbib77&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaqbib77&layout=compact&theme=radical)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Computer+Engineering+Student;Coffee+%2B+Code+%3D+Happy+Me!;Learning+Something+New+Every+Day!)
 
 </div>
 
-### 🌷 Fun Facts
-
-- ☕ Coffee + coding = a good day
-- 💗 I like making technology creative
-- 🧩 I enjoy figuring out how things work
-- 🚀 My goal is to keep building and improving
-
----
-
-<div align="center">
-
-### 💌 Thanks for visiting my profile!
-
-*Keep learning. Keep creating. Keep growing.* 🌸
-
-![Profile Views](https://komarev.com/ghpvc/?username=Alaqbib77&color=ff69b4&style=flat-square)
-
-</div>
