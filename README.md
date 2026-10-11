@@ -10,7 +10,8 @@
 
 <br />
 
-<img src="robot.png" alt="Cute pink robot" width="170" />
+
+<img src="robot-animated.gif" alt="Bashaer's animated pink robot" width="200" />
   
 
 <br />
