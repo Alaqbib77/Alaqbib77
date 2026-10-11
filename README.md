@@ -4,7 +4,11 @@
 
 ### 🐎✨ Welcome to my little corner of GitHub! 🤖☕
 
-<img src="asssets/robot_animated.gif" alt="Cute robot typing on a computer" width="220" />
+<img src="assets/banner.png" alt="Pink horse and robot banner" width="100%" />
+
+<br><br>
+
+<img src="assets/robot_typing_animated.gif" alt="Cute robot typing on a computer" width="220" />
 
 <br><br>
 
