@@ -3,9 +3,7 @@
 
 # 💗 Hey there, I'm Bashaer!
 
-### 💻 Computer Engineering Student | Cybersecurity & AI Enthusiast
-
-🎓 Syracuse University | Class of 2027 🍊
+### 💻 Computer Engineering Student 
 
 *Turning coffee into code, one project at a time ☕*
 
@@ -17,13 +15,16 @@
 
 ### 🌸 A Little About Me
 
-- 🎓 Computer Engineering student at Syracuse University
-- 🔐 Interested in cybersecurity and artificial intelligence
+- 🎓 Computer Engineering student
+- 🎮 I enjoy video games and trying new things
+- 🤖 I love building creative projects and seeing my ideas come to life
+- 💗 I like making everything a little more aesthetic
 - 🤖 Love exploring robotics and embedded systems
 - 💻 Learning more about software and hardware design
 - 🛠️ Enjoy building projects and solving real-world problems
-- 🌍 I speak Arabic and English
 - ✨ Always curious and learning something new!
+  
+**💌 Fun fact:** My code doesn't always work on the first try, but my coffee always does! ☕
 
 ### 🛠️ My Tech Toolbox
 
