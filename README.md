@@ -25,7 +25,7 @@
 
 ## 🌸 About Me
 
-- 🎓 Computer Engineering 
+- 🎓 Computer Engineering
 - 🎮 I enjoy video games and trying new things
 - 🤖 I like robots, technology, and creative projects
 - 💗 I like making things cute, fun, and aesthetic
