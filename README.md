@@ -12,7 +12,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Engineering+student+at+Syracuse+University;Coffee+lover+%E2%98%95+%7C+Creative+builder+%E2%9C%A8;Learning%2C+creating%2C+and+bringing+ideas+to+life!;Trying+to+survive+engineering+school+one+project+at+a+time+%F0%9F%92%97" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Computer+Engineering+student;Coffee+lover+%E2%98%95+%7C+Creative+builder+%E2%9C%A8;Learning%2C+creating%2C+and+bringing+ideas+to+life!;Trying+to+survive+engineering+school+one+project+at+a+time+%F0%9F%92%97" alt="Typing animation" />
 
 <br><br>
 
