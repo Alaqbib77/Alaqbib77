@@ -77,7 +77,7 @@ I’m always learning and adding new things here.
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Alaqbib77&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub stats" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaqbib7&layout=compact&theme=rose_pine&hide_border=true" alt="Top languages" />
 
 </div>
 
