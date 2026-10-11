@@ -47,9 +47,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaqbib77&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaqbib77&layout=compact&theme=radical)
 
 </div>
 
@@ -68,6 +68,6 @@
 
 *Keep learning. Keep creating. Keep growing.* 🌸
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Alaqbib77&color=ff69b4&style=flat-square)
 
 </div>
