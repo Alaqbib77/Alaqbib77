@@ -6,12 +6,9 @@
 ### 🐎 Welcome to my little corner of GitHub! 🤖
 
 
-<img src="banner.png" alt="Horse and robot banner" width="100%" />
-
 <br />
 
 
-<img src="robot-animated.gif" alt="Bashaer's animated pink robot" width="200" />
   
 
 <br />
