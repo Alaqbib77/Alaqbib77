@@ -13,7 +13,7 @@
 
 <br />
 
-**🎓 Computer Engineering @ Syracuse University 🍊**
+**🎓 Computer Engineering **
 
 *Learning, creating, and bringing ideas to life!* ✨
 
