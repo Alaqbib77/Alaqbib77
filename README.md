@@ -1,8 +1,72 @@
-- 👋 Hi, I’m Bashaer
-- 💻 I’m interested in coding
-- ⚡ Fun fact: I like to play soccer ⚽️, draw ✍️, im creaitve with photography and media marketing.
 
-<!---
-Alaqbib77/Alaqbib77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+# 💗 Hey there, I'm Bashaer!
+
+### 💻 Computer Engineering Student | Cybersecurity & AI Enthusiast
+
+🎓 Syracuse University | Class of 2027 🍊
+
+*Turning coffee into code, one project at a time ☕*
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=DB6B9D&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Future+Computer+Engineer;Exploring+AI+%26+Cybersecurity;Learning+and+Building+Cool+Things!)
+
+</div>
+
+---
+
+### 🌸 A Little About Me
+
+- 🎓 Computer Engineering student at Syracuse University
+- 🔐 Interested in cybersecurity and artificial intelligence
+- 🤖 Love exploring robotics and embedded systems
+- 💻 Learning more about software and hardware design
+- 🛠️ Enjoy building projects and solving real-world problems
+- 🌍 I speak Arabic and English
+- ✨ Always curious and learning something new!
+
+### 🛠️ My Tech Toolbox
+
+![Python](https://img.shields.io/badge/Python-FFD1E8?style=for-the-badge&logo=python&logoColor=black)
+![C++](https://img.shields.io/badge/C++-E9D5FF?style=for-the-badge&logo=cplusplus&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCE7F3?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FBCFE8?style=for-the-badge&logo=git&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-DDD6FE?style=for-the-badge&logo=visualstudiocode&logoColor=black)
+
+### 🚀 Projects I'm Exploring
+
+| Project | Description |
+|---------|-------------|
+| 🤖 Robotic Arm | Object detection, sorting and automated movement |
+| 🔐 Phishing Detection | Detecting suspicious URLs and emails |
+| 🚁 Object-Following Drone | Exploring autonomous tracking and navigation |
+| 🧠 AI & Cybersecurity | Learning about security tools and AI systems |
+
+### 📊 My GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+</div>
+
+### 🌷 Fun Facts
+
+- ☕ Coffee + coding = a good day
+- 💗 I like making technology creative
+- 🧩 I enjoy figuring out how things work
+- 🚀 My goal is to keep building and improving
+
+---
+
+<div align="center">
+
+### 💌 Thanks for visiting my profile!
+
+*Keep learning. Keep creating. Keep growing.* 🌸
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&style=flat-square)
+
+</div>
