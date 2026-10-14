@@ -4,11 +4,11 @@
 
 ### 🐎✨ Welcome to my little corner of GitHub! 🤖☕
 
-<img src="assets/banner.png" alt="Pink horse and robot banner" width="100%" />
+<img src="asssets/banner.png" alt="Pink horse and robot banner" width="100%" />
 
 <br><br>
 
-<img src="assets/robot_typing_animated.gif" alt="Cute robot typing on a computer" width="220" />
+<img src="asssets/robot_typing_animated.gif" alt="Cute robot typing on a computer" width="220" />
 
 <br><br>
 
@@ -23,7 +23,7 @@
 
 ---
 
-<img src="assets/cherry-divider.gif" width="100%" />
+<img src="asssets/cherry-divider.gif" width="100%" />
 
 ## 🌸 About Me
 
@@ -49,7 +49,7 @@
 
 ---
 
-<img src="assets/cherry-divider.gif" width="100%" />
+<img src="asssets/cherry-divider.gif" width="100%" />
 
 ## 🎮 Gaming Corner
 
@@ -67,7 +67,7 @@
 ## ☕ Coffee & Coding Corner
 
 <div align="center">
-  <img src="assets/coffee-corner.gif" alt="Cute coffee and coding corner" width="280" />
+  <img src="asssets/coffee-corner.gif" alt="Cute coffee and coding corner" width="280" />
 </div>
 
 - ☕ Coffee makes coding better
@@ -76,7 +76,7 @@
 
 ---
 
-<img src="assets/cherry-divider.gif" width="100%" />
+<img src="asssets/cherry-divider.gif" width="100%" />
 
 ## 🚀 Projects & Creations
 
@@ -114,7 +114,7 @@ I’m always learning and adding new things here.
 
 ---
 
-<img src="assets/cherry-divider.gif" width="100%" />
+<img src="asssets/cherry-divider.gif" width="100%" />
 
 ## 🎀 Currently...
 
