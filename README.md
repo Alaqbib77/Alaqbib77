@@ -16,7 +16,7 @@
 
 <br><br>
 
-**🎓 Computer Engineering @ Syracuse University 🍊**  
+** Computer Engineering 👩🏽‍💻**  
 *Learning, creating, and bringing ideas to life!* ✨
 
 </div>
@@ -27,12 +27,9 @@
 
 ## 🌸 About Me
 
-- 🎓 Computer Engineering student at Syracuse University
-- 🎀 Class of 2027
-- ☕ I love coffee and discovering cute cafés
+- 🎓 Computer Engineering student
 - 🎮 I enjoy video games and trying new things
 - 🤖 I like robots, technology, and creative projects
-- 🌍 I speak Arabic and English
 - 💗 I like making things cute, fun, and aesthetic
 - ✨ Always curious and learning something new
 
@@ -121,9 +118,7 @@ I’m always learning and adding new things here.
 
 ## 🎀 Currently...
 
-- ☕ Drinking: probably coffee
 - 💻 Working on: class projects and coding stuff
-- 🎧 Listening to: my favorite playlist
 - 🌷 Loving: cute cafés and creative ideas
 - ✨ Trying to: survive engineering school
 
