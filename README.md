@@ -59,6 +59,8 @@ Building projects while learning more about programming, engineering, and proble
 
 <img src="asssets/cherry-divider.gif" width="100%" />
 
+---
+
 ## Currently...
 
 - 💻 Working on: class projects and coding stuff
