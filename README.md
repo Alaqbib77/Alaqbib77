@@ -51,64 +51,15 @@
 
 <img src="asssets/cherry-divider.gif" width="100%" />
 
-## 🎮 Gaming Corner
-
-- 🎮 I enjoy gaming in my free time
-- 🕹️ Games help me relax after classes and projects
-- ✨ I like trying fun new games and different styles
-
-**Currently into:**
-- 🎀 Add your favorite game here
-- 🎧 Add another one here
-- ⭐ Add another one here
-
----
-
-## ☕ Coffee & Coding Corner
-
-<div align="center">
-  <img src="asssets/coffee-corner.gif" alt="Cute coffee and coding corner" width="280" />
-</div>
-
-- ☕ Coffee makes coding better
-- 💻 Usually working on class projects, labs, or random ideas
-- 🌷 Cute cafés + coding = perfect combo
-
 ---
 
 <img src="asssets/cherry-divider.gif" width="100%" />
 
 ## 🚀 Projects & Creations
 
-### 🤖 Robotic Arm Object Sorting System
-Designing a robotic arm that can identify, pick up, and sort different objects.
-
-### 🚁 Object-Following Drone
-A robotics project exploring object tracking, sensors, and autonomous movement.
-
 ### 💻 Coding & Class Projects
 Building projects while learning more about programming, engineering, and problem solving.
 
-### ✨ More Coming Soon!
-I’m always learning and adding new things here.
-
----
-
-## 🌆 My GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Alaqbib77&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaqbib77&layout=compact&theme=rose_pine&hide_border=true" alt="Top languages" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alaqbib77&bg_color=fff7fb&color=ff69b4&line=f9a8d4&point=ffb6c1&area=true&hide_border=true" alt="GitHub activity graph" />
 
 </div>
 
@@ -119,21 +70,9 @@ I’m always learning and adding new things here.
 ## 🎀 Currently...
 
 - 💻 Working on: class projects and coding stuff
-- 🌷 Loving: cute cafés and creative ideas
 - ✨ Trying to: survive engineering school
 
 ---
-
-## 🌷 Fun Facts
-
-- ☕ Coffee + coding = a good day
-- 💗 I like making technology creative
-- 🧩 I enjoy figuring out how things work
-- 🎀 I like cute and aesthetic designs
-- 🚀 My goal is to keep building and improving
-
----
-
 <div align="center">
 
 ### 💌 Thanks for visiting my profile!
