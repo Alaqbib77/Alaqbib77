@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ My Cute Tech Toolbox
+## 🛠️ My Tech Toolbox
 
 <div align="center">
 
