@@ -46,10 +46,10 @@
 </div>
 
 <img src="asssets/cherry-divider.gif" width="100%" />
----
 
 <img src="asssets/cherry-divider.gif" width="100%" />
 
+---
 ## 🚀 Projects & Creations
 
 ### 💻 Coding & Class Projects
