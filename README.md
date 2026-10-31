@@ -47,6 +47,8 @@
 
 <img src="asssets/cherry-divider.gif" width="100%" />
 
+</div>
+
 <img src="asssets/cherry-divider.gif" width="100%" />
 
 ## 🚀 Projects & Creations
