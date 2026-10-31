@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 <img src="asssets/cherry-divider.gif" width="100%" />
 
 ## 🌸 About Me
@@ -47,11 +45,7 @@
 
 </div>
 
----
-
 <img src="asssets/cherry-divider.gif" width="100%" />
-
----
 
 <img src="asssets/cherry-divider.gif" width="100%" />
 
@@ -60,14 +54,11 @@
 ### 💻 Coding & Class Projects
 Building projects while learning more about programming, engineering, and problem solving.
 
-
 </div>
-
----
 
 <img src="asssets/cherry-divider.gif" width="100%" />
 
-## 🎀 Currently...
+## Currently...
 
 - 💻 Working on: class projects and coding stuff
 - ✨ Trying to: survive engineering school
