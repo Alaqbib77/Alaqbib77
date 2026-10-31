@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💗 Hey, I'm Bashaer!
+# Hey, I'm Bashaer!
 
-### 🐎✨ Welcome to my little corner of GitHub! 🤖☕
+### 🐎✨ Welcome to my GitHub! 🤖☕
 
 <img src="asssets/banner.png" alt="Pink horse and robot banner" width="100%" />
 
